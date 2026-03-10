@@ -1,5 +1,7 @@
 # Ultimate Algorithm Playground
 
+🚀 **Live Demo:** [algo-playground-beta.vercel.app](https://algo-playground-beta.vercel.app)
+
 ![Algorithm Playground](./public/preview.png)
 
 A comprehensive, interactive, and beautifully designed web application for visualizing and learning data structures and algorithms. Built with React, TypeScript, Zustand, and Tailwind CSS.
